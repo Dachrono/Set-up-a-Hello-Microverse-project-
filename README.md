@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- Coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,6 +180,6 @@ I would like to thank at every people on Microverse that made this possible.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+this project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
